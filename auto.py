@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 time2 = datetime.now()
 
-for i in range(180, 365):
+for i in range(365, 367):
     f = open("/Users/kw/workspace/git_flow_practice/auto.txt", 'w')
     f.write(f'{i}')
     f.close
