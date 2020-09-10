@@ -2,15 +2,9 @@ import os
 import time
 from datetime import datetime, timedelta
 
-
-# day_box = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-# month_box = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-# thisyear = 2021
-# start_date = 5
-
 time2 = datetime.now()
 
-for i in range(180):
+for i in range(180, 365):
     f = open("/Users/kw/workspace/git_flow_practice/auto.txt", 'w')
     f.write(f'{i}')
     f.close
