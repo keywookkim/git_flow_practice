@@ -4,9 +4,3 @@ git flow practice
 rebase is difficult
 1, 2, 3
 
-
-<<<<<<< HEAD
-=======
-rebase....
-1
->>>>>>> 6a5b5c1 (mergesq-1)
