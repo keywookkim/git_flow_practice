@@ -5,20 +5,3 @@ rebase is difficult
 1, 2, 3
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-rebase....no.. merge squash
-<<<<<<< HEAD
-1004
-1004
-1004 in remote change
-=======
-rebase....
-=======
-rebase....no.. merge squash
->>>>>>> e766e08 (mergesq-1)
-1
->>>>>>> 6a5b5c1 (mergesq-1)
-=======
-1 2
->>>>>>> 7343f5a (mergesq-1..)
