@@ -1,1 +1,3 @@
-fast forward test
+git merge squash test
+1
+
