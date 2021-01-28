@@ -1,17 +1,9 @@
 this file is made from staging
 <<<<<<< HEAD
+<<<<<<< HEAD
 rebase test 1
 rebase test 2
 rebase test 3
 
 
-1
-2
-3
-=======
 
-
-sq1
-sq2
-sq3
->>>>>>> staging
