@@ -1,3 +1,10 @@
 iiiiiiiiii
 ddddddd
+<<<<<<< HEAD
+<<<<<<< HEAD
 cccccccc
+=======
+>>>>>>> ef8a6dc (merge-squash-test2)
+=======
+cccccccc
+>>>>>>> cd527bf (merge-squash-test3)
