@@ -5,3 +5,10 @@ rebase is difficult
 1, 2, 3
 
 
+<<<<<<< HEAD
+=======
+rebase....no.. merge squash
+1004
+1004
+1004 in remote change
+>>>>>>> 41f7e47 (git rebase test)
