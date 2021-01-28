@@ -6,4 +6,4 @@ rebase is difficult
 
 
 rebase....no.. merge squash
-1
+1 2
