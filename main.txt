@@ -1,4 +1,6 @@
 i wrote this text in main
 
-squash test
-sdssd
+squash test from staging
+1
+2
+3
