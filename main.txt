@@ -23,6 +23,6 @@ kkkkkk
 kkkkk
 hhhhhh
 
-remote 체인지
+remote 체인지(rebase 테스트용)
 1
 
