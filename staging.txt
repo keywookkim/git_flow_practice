@@ -10,6 +10,8 @@ this file is made from staging
 2
 3
 
+스쿼시 앤 리베이스 테스트
+1
 
 
 
