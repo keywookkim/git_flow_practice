@@ -28,16 +28,7 @@ remote 체인지
 
 깃풀 리베이스 테스트
 
-c
+
 sdasdasdasdasdasdas
 
 dasdadasdasd
-
-
-
-
-
-
-1번 커밋
-2번 커밋
-3번 커밋
