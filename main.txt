@@ -29,6 +29,4 @@ remote 체인지
 깃풀 리베이스 테스트
 
 
-sdasdasdasdasdasdas
 
-dasdadasdasd
