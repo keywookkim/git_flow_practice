@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 
 time2 = datetime.now()
 
-for i in range(5):
+for i in range(180):
     f = open("/Users/kw/workspace/git_flow_practice/auto.txt", 'w')
     f.write(f'{i}')
     f.close
@@ -20,7 +20,7 @@ for i in range(5):
     os.system(
         f'git commit --amend --no-edit --date "{what_day} +0900T"')
     os.system(f'git push origin main')
-    print(f'{i}번 완료')
+    print(f'{i + 1}번 완료')
 
 
 # print('현재 시간부터 0일 뒤')
